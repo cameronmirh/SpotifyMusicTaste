@@ -1,4 +1,4 @@
-# SpotifyMusicTaste
+# Spotify Music Taste
 
 Through its API, Spotify has a wealth of data linked to individual users making it a rich database for data and music lovers alike to explore their personal music. Using the [Spotipy package](https://spotipy.readthedocs.io/en/2.23.0_a/) I do some exploratory analysis on my own music data. As an avid user of the platform since 2013, and having changed accounts in 2015 for the prolongation of the student discount, I have almost 10 years of data to look at.
 
